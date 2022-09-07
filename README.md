@@ -1,0 +1,3 @@
+# Snake-AI-RL
+
+This projects aims to ...
